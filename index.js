@@ -44,7 +44,7 @@ client.on('guildMemberAdd', async (member) => {
 🔥 Después de verificarte tendrás acceso completo al servidor.
 `)
         .setThumbnail('https://media.discordapp.net/attachments/1368012469473247315/1480058487194259619/content.png?ex=69ae4b61&is=69acf9e1&hm=8d2e10fe828a85d200f945998cb8a96810164b383ca5aec948671b3f1e0ab198&=&format=webp&quality=lossless&width=960&height=960')
-        .setImage('https://media.discordapp.net/attachments/1368012469473247315/1480062641664823337/logo_color.png?ex=69ae4f40&is=69acfdc0&hm=ac34f78c2fe28f0e472cd2dbc794d4637e62e99fd00b24a875e9a90c7b0fa4f4&=&format=webp&quality=lossless&width=987&height=960')
+        .setImage('https://cdn.discordapp.com/attachments/1368012469473247315/1494824673429684304/1E26E9B5-5613-4CAA-933B-AA3EAA075BD2-removebg-preview.png?ex=69e4ac36&is=69e35ab6&hm=3335350e6fbc5481d18a55aed369e1097e01aa3c0fd56bf281d1a4b3b7e1becb&')
         .setFooter({ 
             text: `Managed by ${member.guild.name}`,
             iconURL: member.guild.iconURL()
