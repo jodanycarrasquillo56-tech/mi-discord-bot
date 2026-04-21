@@ -43,8 +43,8 @@ client.on('guildMemberAdd', async (member) => {
 
 🔥 Después de verificarte tendrás acceso completo al servidor.
 `)
-        .setThumbnail('https://media.discordapp.net/attachments/1368012469473247315/1494824673429684304/1E26E9B5-5613-4CAA-933B-AA3EAA075BD2-removebg-preview.png?ex=69e4ac36&is=69e35ab6&hm=3335350e6fbc5481d18a55aed369e1097e01aa3c0fd56bf281d1a4b3b7e1becb&=&format=webp&quality=lossless')
-        .setImage('https://media.discordapp.net/attachments/1368012469473247315/1494824673429684304/1E26E9B5-5613-4CAA-933B-AA3EAA075BD2-removebg-preview.png?ex=69e4ac36&is=69e35ab6&hm=3335350e6fbc5481d18a55aed369e1097e01aa3c0fd56bf281d1a4b3b7e1becb&=&format=webp&quality=lossless')
+        .setThumbnail('https://media.discordapp.net/attachments/1368012469473247315/1496109756132364399/c8c0abdb-d86a-4ce6-b9da-97fc34eda269.png?ex=69e8b04a&is=69e75eca&hm=0b50a4e7b27a8cd1adeb2fcb8bd646dd2094e6f06f77ff21467abb0f5fc7e733&=&format=webp&quality=lossless&width=1376&height=917')
+        .setImage('https://media.discordapp.net/attachments/1368012469473247315/1496109756132364399/c8c0abdb-d86a-4ce6-b9da-97fc34eda269.png?ex=69e8b04a&is=69e75eca&hm=0b50a4e7b27a8cd1adeb2fcb8bd646dd2094e6f06f77ff21467abb0f5fc7e733&=&format=webp&quality=lossless&width=1376&height=917')
         .setFooter({ 
             text: `Managed by ${member.guild.name}`,
             iconURL: member.guild.iconURL()
